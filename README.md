@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emilyvelez
-- 👀 I have a keen interest in data analytics, specifically its applications within the entertainment industry
+- 👀 I have a keen interest in data analytics
 - 📫 Reach me at emily.velez1234@gmail.com
 - Find out more about me at https://emilyvelez.github.io/
 <!---
